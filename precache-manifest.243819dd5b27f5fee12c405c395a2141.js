@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9c82cf876cedb99e54cdd9dc98d4972c",
+    "revision": "91b9338cdd5ca97cd216cda7681072ee",
     "url": "/appscore/index.html"
   },
   {
-    "revision": "9fbf169d88d3a28b9fe2",
+    "revision": "e69e59b6509d52eee07f",
     "url": "/appscore/static/css/2.4fb11420.chunk.css"
   },
   {
-    "revision": "cff3ab8c19da30cdc673",
+    "revision": "1fa239eeb3810d304af0",
     "url": "/appscore/static/css/main.b86e78ba.chunk.css"
   },
   {
-    "revision": "9fbf169d88d3a28b9fe2",
-    "url": "/appscore/static/js/2.6a829918.chunk.js"
+    "revision": "e69e59b6509d52eee07f",
+    "url": "/appscore/static/js/2.dd2e34f8.chunk.js"
   },
   {
-    "revision": "cff3ab8c19da30cdc673",
-    "url": "/appscore/static/js/main.a61550bf.chunk.js"
+    "revision": "1fa239eeb3810d304af0",
+    "url": "/appscore/static/js/main.6f2dfc68.chunk.js"
   },
   {
     "revision": "3375ac6ff85db08fac05",
